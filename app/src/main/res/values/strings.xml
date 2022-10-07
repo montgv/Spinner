@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="valor1">Valor 1</string>
+    <string name="valor2">Valor 2</string>
+    <string-array name="operacionesSpinner">
+        <item> </item>
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
+</resources>
